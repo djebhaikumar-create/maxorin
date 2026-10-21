@@ -1,0 +1,8 @@
+<svg width="230" height="50" viewBox="0 0 230 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="shield-icon">
+    <path d="M22 8 L36 14 V26 C36 34 22 42 22 42 C22 42 8 34 8 26 V14 L22 8 Z" fill="#1565C0"/>
+    <path d="M23 15 L16 26 H22 L20 35 L28 23 H22 L23 15 Z" fill="#FFD700"/>
+  </g>
+  <text x="44" y="31" font-family="'Libre Baskerville', Georgia, serif" font-weight="800" font-size="25" fill="#0D47A1" letter-spacing="1">MAXORIN</text>
+  <text x="45" y="43" font-family="Arial, sans-serif" font-weight="700" font-size="8.5" fill="#2E7D32" letter-spacing="1.5">MALE VITALITY MATRIX</text>
+</svg>
