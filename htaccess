@@ -1,0 +1,5 @@
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.website-neura\.com [NC]
+RewriteRule ^(.*)$ https://website-neura.com/$1 [R=301,L]

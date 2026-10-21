@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular Badge Background -->
+  <circle cx="16" cy="16" r="15" fill="#0D47A1" stroke="#00C853" stroke-width="2"/>
+  <!-- Bold Letter M -->
+  <text x="16" y="23" font-family="'Libre Baskerville', Georgia, serif" font-weight="800" font-size="18" fill="#FFFFFF" text-anchor="middle">M</text>
+  <!-- Small Accent Dot/Spark -->
+  <circle cx="23" cy="10" r="3" fill="#FFD700"/>
+</svg>
